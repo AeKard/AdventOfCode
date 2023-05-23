@@ -1,0 +1,15 @@
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\Advent of code.csproj.AssemblyReference.cache
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\Advent of code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\Advent of code.AssemblyInfoInputs.cache
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\Advent of code.AssemblyInfo.cs
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\Advent of code.csproj.CoreCompileInputs.cache
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\bin\Debug\net6.0\Advent of code.exe
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\bin\Debug\net6.0\Advent of code.deps.json
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\bin\Debug\net6.0\Advent of code.runtimeconfig.json
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\bin\Debug\net6.0\Advent of code.dll
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\bin\Debug\net6.0\Advent of code.pdb
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\Advent of code.dll
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\refint\Advent of code.dll
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\Advent of code.pdb
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\Advent of code.genruntimeconfig.cache
+C:\Users\LordD\Documents\Visual Studio 2022\Advent of code\obj\Debug\net6.0\ref\Advent of code.dll
